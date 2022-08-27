@@ -178,6 +178,7 @@ ul {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #212121;
+    margin-bottom: 10px;
 }
 
 .benefits-paragraph {
@@ -270,7 +271,7 @@ ul {
 
 .section-portfolio {
     background-color: #fff;
-    padding-top: 50px;
+    padding-top: 94px;
     padding-bottom: 94px;
 }
 
@@ -361,10 +362,6 @@ ul {
     display: flex;
     flex-direction: column;
     gap: 9px;
-}
-
-.footer-logo {
-    margin-bottom: 20px;
 }
 
 .footer-logo-studio {
